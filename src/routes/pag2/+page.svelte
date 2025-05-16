@@ -1,0 +1,1 @@
+<div class="w-full bg-blue-600">Events</div>
