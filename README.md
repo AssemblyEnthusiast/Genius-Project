@@ -1,11 +1,1 @@
-### J FRIZZ
-
-## Boys:
-muahhh
-
-## running:
-is bad. i lazy
-
-## el diablo
-## johnny frizz
-## john "jack daniels" frissbeeee
+Project for the running because the fast go 
